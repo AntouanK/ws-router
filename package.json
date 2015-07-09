@@ -1,6 +1,7 @@
 {
   "name": "ws-router",
   "version": "1.0.0",
+  "engines": { "iojs": ">=1.0.0" },
   "description": "A small simple router for websocket connections",
   "main": "index.js",
   "scripts": {
